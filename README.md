@@ -1,5 +1,14 @@
 <div style="background-color:#111622; width:100vw;">
-  
+ 
+ # Jorge Valdivia
+
+## 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;Excited by the fact that there are no limits to what can be accomplished through technology. 
+
+🎓 &nbsp;Computer Science Student at Monterrey Institute of Technology and Higher Studies
+
+🤖 &nbsp;Currently working as a software engineer intern
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
@@ -23,4 +32,14 @@
 
 
 </p>
+  
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/davidmartinezhi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=valjor98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=valjor98&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+  
 <div>
