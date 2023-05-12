@@ -6,7 +6,7 @@
 
 🎓 &nbsp;Computer Science Student at Tecnologico de Monterrery (ITESM)
 
-🤖 &nbsp;Currently working as a software engineer intern
+🤖 &nbsp;Currently working as a Software Engineer Intern
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
