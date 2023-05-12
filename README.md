@@ -4,9 +4,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Excited by the fact that there are no limits to what can be accomplished through technology. 
-
-🎓 &nbsp;Computer Science Student at Monterrey Institute of Technology and Higher Studies
+🎓 &nbsp;Computer Science Student at Tecnologico de Monterrery (ITESM)
 
 🤖 &nbsp;Currently working as a software engineer intern
   
