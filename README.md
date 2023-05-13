@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;Computer Science Student at Tecnologico de Monterrery (ITESM)
+🎓 &nbsp;Computer Science Student and Economics student
 
 🤖 &nbsp;Currently working as a Software Engineer Intern
   
