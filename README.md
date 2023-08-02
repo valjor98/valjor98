@@ -6,7 +6,7 @@
 
 🎓 &nbsp;Computer Science and Economics student
 
-🤖 &nbsp;Currently working as a Software Engineer Intern
+🤖 &nbsp;Currently working in Software Engineering and Data Science
  
 😄 &nbsp;Pronouns: He/Him
   
