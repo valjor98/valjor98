@@ -15,7 +15,7 @@
 <p align="left">
   What I'm good at:
   <br /><br />
-  <img alt="technologies" src="https://skillicons.dev/icons?i=python,react,angular,nextjs,nodejs,express,mysql,mongodb,graphql,docker,r,julia,elixir,csharp,cplusplus"/>
+  <img alt="technologies" src="https://skillicons.dev/icons?i=python,elixir,cs,cpp,react,rails,angular,nextjs,graphql,r,julia,nodejs,express,mysql,mongodb"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
