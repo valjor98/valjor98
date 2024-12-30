@@ -6,7 +6,7 @@
 
 🎓 &nbsp;Computer Science and Economics student
 
-🤖 &nbsp;Currently working in Software Engineering at Microsoft
+🤖 &nbsp;Currently working as a Software Engineer at Microsoft
 
 😄 &nbsp;Pronouns: He/Him
   
